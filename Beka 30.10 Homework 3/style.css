@@ -1,0 +1,38 @@
+body{
+    background-color: #f3e5d8;
+}
+.mtlianad{
+    border: 1px solid white;
+    background-color: white;
+    padding: 20px;
+    width: 550px;
+    border-radius: 10px;
+    margin-left: 450px;
+    margin-top: 100px;
+}
+img{
+    width: 500px;
+    border-radius: 10px;
+    margin-left: 40px;
+}
+.container1{
+    background-color: #fff7fc;
+    border-radius: 10px;
+}
+.container1 h1{
+    font-size: 20px;
+    font-weight: bold;
+    color: #875066;
+}
+h2{
+    color: #875066;
+    font-size: 30px;
+}
+h3{
+    color: #875066;
+    font-size: 30px;
+}
+h4{
+    color: #875066;
+    font-size: 30px;
+}
